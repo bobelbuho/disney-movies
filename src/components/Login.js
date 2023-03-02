@@ -20,6 +20,9 @@ position: relative;
 min-height: 100vh;
 box-sizing: border-box;
 display: flex; 
-justify-content: 
+justify-content: center;
+align-items: center;
+flex-direction: column;
+padding: 81vh;
 `;
 export default Login;

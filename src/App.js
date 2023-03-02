@@ -6,11 +6,11 @@ function App() {
   return (
     <div className="App">
   <Router>
-  <Switch>
+  <Switch> 
 <Route exact path='/'>
   <Login />
 </Route>
-  </Switch>
+</Switch>
   </Router>
     </div>
   );
